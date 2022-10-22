@@ -42,7 +42,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/commclassroom/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img width="30px" src="https://cdn.vectorstock.com/i/preview-1x/57/60/follow-me-neon-sign-social-networks-design-vector-26235760.webp" />
   </a>&ensp;
  <a href="https://www.youtube.com/channel/UCwY7chGINzoVuEB3mWOi_zw">
   <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
